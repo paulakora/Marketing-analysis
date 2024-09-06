@@ -1,0 +1,9 @@
+name: mpc_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.4
+  - numpy=2.1.1
+  - pandas=2.2.2
+  - seaborn=0.13.2
